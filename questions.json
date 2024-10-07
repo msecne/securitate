@@ -1,0 +1,90 @@
+[
+    {
+        "question_name": "Q1",
+        "question_text": "Ati primit mesajul indicat in imagine. Stiti ca urmeaza sa primiti intr-adevar un colet. Ce veti face in continuare?",
+        "question_display": "De la: Posta<br><br>Coletul dvs. a ajuns la Oficiul Postal. Pentru a-l ridica, va rugam sa platiti taxa de magazinaj accesand link-ul urmator: HTTPS://WWW.POSTA-R0MANA.RO/PLATA.HTML",
+        "question_type": "sms",
+        "answer_reason": "Link-ul contine cuvantul \"r0mana\" scris cu cifra \"0\" zero in loc de litera \"o\". Acesta este un indiciu clar ca link-ul este fals.",
+        "question_answers": [
+            {
+                "answer": "Nu fac nimic deoarece link-ul nu duce catre o pagina securizata HTTPS",
+                "correct": false
+            },
+            {
+                "answer": "Nu fac nimic deoarece link-ul este gresit",
+                "correct": true
+            },
+            {
+                "answer": "Accesez link-ul pentru a plati taxa de magazinaj",
+                "correct": false
+            }
+        ]
+
+    },
+    {
+        "question_name": "Q2",
+        "question_text": "Primiti mesajul indicat pe telefon, de la cineva de incredere de pe un grup din care faceti parte. Ce veti face in continuare?",
+        "question_display": "Oportunitate mare de castig suplimentar! Daca doriti sa castigati bani usor si rapid, va rugam sa accesati link-ul urmator: https://www.castiga-bani-online.ro",
+        "question_type": "whatsapp",
+        "answer_reason": "Chiar daca mesajul vine de la o persoana de incredere, nu exista castiguri usoare si rapide. Este posibil de asemenea ca persoana de incredere sa aiba contul de WhatsApp compromis si sa trimita mesaje false. Eventual puteti suna acea persoana direct doar prin intermediul telefoniei mobile si nu prin WhatsApp.",
+        "question_answers": [
+            {
+                "answer": "Nu accesez link-ul deoarece nu stiu despre ce este vorba si cel mai probabil e o inselatorie",
+                "correct": true
+            },
+            {
+                "answer": "Accesez link-ul pentru a vedea despre ce este vorba. Oricand e binevenit un venit suplimentar",
+                "correct": false
+            },
+            {
+                "answer": "Intreb mai multe detalii despre aceasta oportunitate",
+                "correct": false
+            }
+        ]
+
+    },
+    {
+        "question_name": "Q3",
+        "question_text": "Vedeti reclama urmatoare pe Facebook si sunteti in cautarea unui credit pentru o problema medicala. Ce veti face in continuare?",
+        "question_display": "Black Firday!<br>Obtine acum un credit de nevoi personale de la 1000 pana la 10.000 de lei cu o dobanda promotionala de 1%. Contacteaza unul dintre agentii nostri. Oferta limitata pentru primii 100 de clienti!",
+        "question_type": "raiff",
+        "answer_reason": "In anuntul-reclama de pe Facebook nu se precizeaza daca dobanda aplicata e pe zi, luna sau an. O asemenea dobanda este de cele mai multe ori inselatoare. Chiar daca in reclama apare numele sau emblema unei banci cunoscute, asta nu o face adevarata.",
+        "question_answers": [
+            {
+                "answer": "Nu accesez niciun link si nu contactez pe nimeni deoarece o astfel de dobanda promotionala este prea buna pentru a fi adevarata",
+                "correct": true
+            },
+            {
+                "answer": "Ma grabesc sa contactez un agent pentru a fi in primii 100 de clienti",
+                "correct": false
+            },
+            {
+                "answer": "Imi anunt imediat familia si prietenii despre aceasta oferta pentru ca e bine sa ne gandim si la cei din jur. Ulterior aplic si eu.",
+                "correct": false
+            }
+        ]
+
+    },
+    {
+        "question_name": "Q3",
+        "question_text": "Primesti urmatorul mesaj in ziua urmatoare dupa ce ti-ai deschis un cont bancar. Ce veti face in continuare?",
+        "question_display": "De la: 1887<br><br><br>Banca ta are o promotie.<br>Raspunde la acest mesaj cu textul CAMPANIE urmat de contul tau IBAN pentru a primi 50 de lei GARANTAT in cont. Exemplu de raspuns: CAMPANIE RO1234567890123456789012",
+        "question_type": "sms",
+        "answer_reason": "Desi nu este un pericol direct pentru securitatea contului bancar, mesajele trimise catre numere scurte pot ascunde in spate o plata cu suprataxa sau un abonament lunar cu suprataxa, pe care il veti plati catre operatorul dvs. de telefonie mobila. Neavand toate aceste detalii, este mai sigur sa ignorati mesajul.",
+        "question_answers": [
+            {
+                "answer": "Nu trimit SMS deoarece bancile nu fac astfel de promotii prin SMS. Voi accesa contul sau site-ul bancii pentru a verifica daca exista vreo promotie",
+                "correct": true
+            },
+            {
+                "answer": "50 de lei sunt 50 de lei. Raspund la mesaj cu contul meu IBAN",
+                "correct": false
+            },
+            {
+                "answer": "Sunt pe reteaua Digi si nu am SMS-uri incluse in abonament. Nu raspund la mesaj",
+                "correct": false
+            }
+        ]
+
+    }
+]
